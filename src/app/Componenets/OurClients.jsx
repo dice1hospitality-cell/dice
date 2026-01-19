@@ -10,14 +10,27 @@ import { Autoplay, A11y } from "swiper/modules"; // dropped Navigation module
 import "swiper/css";
 
 const logos = [
-  "/images/icon(1).png",
-  "/images/icon(2).png",
-  "/images/icon(3).png",
-  "/images/icon(4).png",
-  "/images/icon(5).png",
-  "/images/icon(6).png",
-  "/images/icon(7).png",
-  "/images/icon(8).png",
+  "/images/swiper (1).jpg",
+  "/images/swiper (2).jpg",
+  "/images/swiper (3).jpg",
+  "/images/swiper (4).jpg",
+  "/images/swiper (5).jpg",
+  "/images/swiper (6).jpg",
+  "/images/swiper (7).jpg",
+  "/images/swiper (8).jpg",
+  "/images/swiper (9).jpg",
+  "/images/swiper (10).jpg",
+  "/images/swiper (11).jpg",
+  "/images/swiper (12).jpg",
+  "/images/swiper (13).jpg",
+  "/images/swiper (14).jpg",
+  "/images/swiper (15).jpg",
+  "/images/swiper (16).jpg",
+  "/images/swiper (17).jpg",
+  "/images/swiper (18).jpg",
+  "/images/swiper (19).jpg",
+  "/images/swiper (20).jpg",
+
 ];
 
 export default function OurClients() {
