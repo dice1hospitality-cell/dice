@@ -12,7 +12,7 @@ const projects = [
 {
   img: "/images/ykitori.jpeg",
   alt: "Fusion Japanese Restobar",
-  title: "YKITORI",
+  title: "YAKITO",
   type: "Fusion Japanese Restobar",
   location: "Double Tree By Hilton Hotel, Aljadaf Dubai, UAE",
   year: "2026",
@@ -29,16 +29,7 @@ const projects = [
   scope: "FULL CONCEPT CREATION",
   href: "/our-clients",
 },
-{
-  img: "/images/laylak-1.jpg",
-  alt: "Fusion Japanese Restobar",
-  title: "YKITORI",
-  type: "Fusion Japanese Restobar",
-  location: "Double Tree by Hilton Hotel, Aljadaf Dubai, UAE",
-  year: "2026",
-  scope: "FULL CONCEPT CREATION",
-  href: "/our-clients",
-},
+
 
 // ===== 2025 =====
 {
@@ -233,16 +224,7 @@ const projects = [
   scope: "F&B CONSULTANCY",
   href: "/our-clients",
 },
-{
-  img: "/images/above.avif",
-  alt: "Apartment Interior Design",
-  title: "ABOVE",
-  type: "NIGHT CLUB",
-  location: "DuSofitel DT, Dubai",
-  year: "2018",
-  scope: "FULL CONCEPT CREATION",
-  href: "/our-clients",
-},
+
 {
   img: "/images/pit.avif",
   alt: "Apartment Interior Design",
@@ -288,18 +270,6 @@ const projects = [
   href: "/our-clients",
 },
 
-// ===== 2014 =====
-{
-  img: "/images/times-of-arabia.avif",
-  alt: "Apartment Interior Design",
-  title: "TIMES OF ARABIA",
-  type: "RESTAURANT",
-  location: "Souk Mafinat Jumeirah, Dubai",
-  year: "2014",
-  scope: "FULL CONCEPT CREATION",
-  href: "/our-clients",
-},
-
 // ===== 2013 =====
 {
   img: "/images/ward.webp",
@@ -322,17 +292,6 @@ const projects = [
   href: "/our-clients",
 },
 
-// ===== 2003 =====
-{
-  img: "/images/times.avif",
-  alt: "Apartment Interior Design",
-  title: "TIMES",
-  type: "RESTAURANT & LOUNGE",
-  location: "Media City, Dubai",
-  year: "2003",
-  scope: "FULL CONCEPT CREATION",
-  href: "/our-clients",
-},
 
 // ===== 1999 =====
 {

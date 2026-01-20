@@ -20,16 +20,14 @@ const logos = [
   "/images/swiper (8).jpg",
   "/images/swiper (9).jpg",
   "/images/swiper (10).jpg",
-  "/images/swiper (11).jpg",
-  "/images/swiper (12).jpg",
-  "/images/swiper (13).jpg",
-  "/images/swiper (14).jpg",
-  "/images/swiper (15).jpg",
-  "/images/swiper (16).jpg",
-  "/images/swiper (17).jpg",
-  "/images/swiper (18).jpg",
-  "/images/swiper (19).jpg",
-  "/images/swiper (20).jpg",
+  "/images/swiper (11).png",
+  "/images/swiper (12).png",
+
+  "/images/swiper (13).png",
+  "/images/swiper (14).webp",
+  "/images/swiper (15).webp",
+  "/images/swiper (16).webp",
+  "/images/swiper (17).jpeg",
 
 ];
 

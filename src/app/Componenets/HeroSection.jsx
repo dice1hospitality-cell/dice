@@ -31,7 +31,7 @@ export default function HeroSection() {
         transition={{ duration: 0.5, ease: "easeOut" }}
       >
         <span className="inline-block border border-white text-[12px] px-4 py-2 rounded-full tracking-widest">
-          WELCOME TO DICE HOSPITALITY
+          WELCOME TO OKARA HOSPITALITY
         </span>
       </motion.div>
 
