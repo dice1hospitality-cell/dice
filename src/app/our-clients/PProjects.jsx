@@ -20,6 +20,16 @@ const projects = [
     scope: "FULL CONCEPT CREATION",
     href: "/our-clients",
   },
+    {
+    img: "/images/ykitori.jpeg",
+    alt: "Yakito fusion Japanese restobar in Al Jadaf Dubai",
+    title: "YAKITO",
+    type: "Fusion Japanese Restobar",
+    location: "Double Tree By Hilton Hotel, Al Jadaf Dubai, UAE",
+    year: "2026",
+    scope: "FULL CONCEPT CREATION",
+    href: "/our-clients",
+  },
 
   // ===== 2024 =====
   {
